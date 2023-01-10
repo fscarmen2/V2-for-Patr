@@ -16,6 +16,7 @@
 * vmess 和 vless 的 uuid，路径既可以自定义，又或者使用默认值
 * 集成哪吒探针，可以自由选择是否安装
 * 部署完成如发现不能上网，请检查域名是否被墙，可使用 Cloudflare CDN 或者 worker 解决。
+* 部署时用到的镜像: `fscarmen/v2-koyeb` ， tag: `latest`
 
 ## 部署:
 * 注册 [Patr.com](http://patr.cloud)
